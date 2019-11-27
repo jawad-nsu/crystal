@@ -1,0 +1,8 @@
+data/
+img_data/
+__pycache__/
+results/
+
+**.mkv
+**.swp
+**.swo
